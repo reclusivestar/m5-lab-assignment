@@ -1,0 +1,14 @@
+/* Cart.css */
+.cart-container {
+    margin-top: 20px;
+  }
+  
+  .img-fluid {
+    max-width: 100px;
+    height: auto;
+  }
+  
+  .cart-container h2 {
+    margin-bottom: 20px;
+  }
+  
